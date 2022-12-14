@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Operatpre logico NOT</h1>
+<p>L'operatore NOT restituisce il complemento dell'operando. L'operatore NOT è l'unico operatore unario, ossia agisce soltanto su un operando o proposizione.</p>
+
+<img src="" alt="">
+<table style="width:100%">
+    <tr>
+      <th>A</th>
+      <th>X</th>
+     
+    </tr>
+    <tr>
+      <td>0</td>
+      <td>1</td>
+     
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0</td>
+     
+    </tr>
+  </table>
+
+
+</body>
+</html>
